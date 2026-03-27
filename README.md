@@ -50,11 +50,10 @@ pip install -r requirements.txt
 
 ### 2. 数据集准备
 
-数据来源：Kaggle 口腔疾病公开数据集
+数据来源：Kaggle 口腔疾病公开数据集 链接见docs文件夹
 
 预处理：统一图像尺寸、像素值归一化，通过 ImageDataGenerator 实现随机翻转 / 旋转 / 缩放的数据增强策略
 
-存放：将处理后的数据按训练 / 验证 / 测试集划分，放入项目oral-disease-recognition\\data\\
 
 ### 3. 模型训练
 
