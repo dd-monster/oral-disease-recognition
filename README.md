@@ -1,8 +1,8 @@
-\# 口腔疾病多标签图像识别（Oral Disease Multi-Label Image Recognition）
+# 口腔疾病多标签图像识别（Oral Disease Multi-Label Image Recognition）
 
 
 
-\## 项目概述
+## 项目概述
 
 本项目基于深度学习技术，构建了针对口腔病变的多标签图像识别系统，选用 InceptionV3 与 ResNet50 作为核心 backbone，实现口腔疾病的自动化筛查与辅助诊断。项目最终验证集准确率达 \*\*93%\*\*，为临床早期诊断提供高效、可落地的AI辅助方案。
 
